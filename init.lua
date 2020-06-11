@@ -9,3 +9,5 @@ minetest.register_abm({
 		end
 	end
 })
+
+print("[Icemelter mod] Ice melting mod loaded successfully!")
